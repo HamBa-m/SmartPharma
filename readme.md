@@ -54,10 +54,10 @@ PHARMA
 
 3. Place your `predictions.json` file in the `app` directory.
 
-4. Open a terminal in the `app` directory and run the following command:
+4. Open a terminal in the `SmartPharma` directory and run the following command:
 
 ```bash
-streamlit run app.py
+streamlit run app/app.py
 ```
 
 5. The application will start, and you can access it in your web browser at `http://localhost:8501`.
