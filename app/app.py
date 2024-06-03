@@ -7,7 +7,7 @@ import random
 data = pd.read_json('app/predictions.json')
 
 # Streamlit app
-st.title('Medicaments Delivery Schedule')
+st.title('Pharma Wizard')
 st.write('This application shows the delivery schedule for different product classes.')
 
 # Extract unique product classes and cities from the data
